@@ -1,0 +1,13 @@
+Features:
+
+    Add a Task: Users can add a new task with a title and description.
+
+    *View All Tasks: Display all tasks with their status (completed or pending).
+
+    *Mark a Task as Complete: Users can mark a task as completed.
+
+    *Delete a Task: Users can delete a task by its ID.
+
+    *Save Tasks to a File: Save tasks to a file (e.g., tasks.txt) so they persist even after the program closes.
+
+    *Load Tasks from a File: When the program starts, load tasks from the file.

@@ -1,0 +1,34 @@
+Tech Stack:
+
+    Language: Python (or any language you're comfortable with)
+
+    Version Control: Git/GitHub
+
+    File Handling: Use a text file or JSON file to store tasks.
+
+
+Steps to Build:
+
+    Set Up GitHub Repository:
+
+        Create a new repository on GitHub (e.g., personal-task-manager).
+
+        Clone the repository to your local machine.
+
+    Write the Code:
+
+        Create a Python script (e.g., task_manager.py).
+
+        Implement the features listed above.
+
+    Test the Application:
+
+        Run the script and test all features to ensure they work as expected.
+
+    Push to GitHub:
+
+        Commit your code and push it to the GitHub repository.
+
+    Add a README:
+
+        Write a README.md file explaining the project, how to run it, and its features.
